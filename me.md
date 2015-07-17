@@ -16,7 +16,7 @@ Addr.ST=MA
 
 Addr.State=Massachusetts
 
-Adr.Zip=02144
+Addr.Zip=02144
 
 Email=james.g.hazard@gmail.com
 
